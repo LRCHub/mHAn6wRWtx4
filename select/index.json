@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "太陽がキラキラ",
+  "base_artist": "ドリーミング",
+  "createdAt": "2026-03-16T16:41:34.712557Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽がキラキラ",
+      "artist": "ドリーミング",
+      "has_synced": false,
+      "path": "select/pl_01_太陽がキラキラ_ドリーミング.txt"
+    }
+  ]
+}
